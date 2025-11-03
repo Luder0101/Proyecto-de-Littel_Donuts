@@ -27,3 +27,5 @@ enum Role {
   ADMIN
 }
 
+// Aqui se agregara el nuevo model para el apartado del pago con tarjeta
+
